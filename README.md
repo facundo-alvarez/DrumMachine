@@ -1,6 +1,6 @@
 # DrumMachine
 
-Objective:
+Goals:
 - Realization of a Drum Machine with 4 tracks, sequencer and 4 pads for musical reproduction of patterns.
 
 Tools:
